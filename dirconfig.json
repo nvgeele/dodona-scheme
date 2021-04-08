@@ -1,0 +1,9 @@
+{
+	"access": "private",
+	"contact": "The SCPI Team <scpi@dinf.vub.ac.be>",
+	"programming_language": "scheme",
+	"evaluation":
+	{
+		"handler": "scheme"
+	}
+}
